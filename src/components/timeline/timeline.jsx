@@ -104,14 +104,14 @@ export const TimeLine = () => {
                         <div className="d-flex justify-content-between flex-column mt-1">
                         <div>
                         <Accordion>
-                            <Card bg="primary">
+                            <Card>
                                 <Accordion.Toggle as={Card.Header} eventKey="0" className="p-2 text-center accordian-main">
                                     PROJECT DETAILS
                                 </Accordion.Toggle>
                                     <Accordion.Collapse eventKey="0" className="text-left">
                                         <Card.Body>
-                                            <strong>Description:</strong> A mobile application made available on Android devices whereby
-                                            users can speed up/simplify the process of event-planning
+                                            <strong>Description:</strong> A mobile application created for CP 2106 Project Orbital, whereby
+                                            users can simplify the process of event-planning and meeting up with people
                                             <hr />
                                             <strong>Features:</strong>
                                             <ul className="list-styles pt-1">
@@ -120,6 +120,7 @@ export const TimeLine = () => {
                                                 <li>Notification & Messaging System</li>
                                                 <li>Location service </li>
                                                 <li>Powered by Flutter, Firebase & Google Maps API</li>
+                                                <li>Conferred <strong>Artemis, the highest level of achievement</strong> </li>
                                             </ul>
                                             <hr />
                                             <strong>Tech used:</strong>

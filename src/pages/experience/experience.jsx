@@ -18,7 +18,7 @@ export const Experience = () => {
                                 </Card.Header>
                                 <Card.Body className="d-flex justify-content-center flex-column">
                                     <div>
-                                        <Card.Title className="text-center">Automation Engineer intern</Card.Title>
+                                        <Card.Title className="text-center">Software Engineer intern</Card.Title>
                                     </div>
                                     <div>
                                     <Card.Text className="text-center style">
@@ -32,8 +32,8 @@ export const Experience = () => {
                                             <li>Utilised React & React-admin library to contribute features and bug fixes to a centralised website that serves as the UI between clients & server/applications </li>
                                             <li>Set-up and pushed application monitoring pipelines for several in-house application logs, with Logstash & its plugins as well as Python, into production environments </li>
                                             <li>Wrote a script with Javascript to display data onto Grafana, by making API calls and then injecting the fetched data into HTML components created by the script </li>
-                                            <li>Performed CRUD operations and joins on multiple schemas/tables in main Postgre databases to load/remove/manipulate data according 
-                                            to the business requirements.</li>
+                                            <li>Performed CRUD operations and joins on multiple schemas/tables in main Postgre databases to load/remove/manipulate data as part of  the 
+                                             project requirements.</li>
                                             <li>Exposure to daily stand-up meetings and effective project management with Agile-Scrum methodology on Jira</li>
                                         </ul>
                                         {/* <br/> */}
