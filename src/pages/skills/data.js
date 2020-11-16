@@ -11,6 +11,7 @@ import L_Python from "../../assets/img/skills/python.svg"
 import L_Postgres from "../../assets/img/skills/postgresql.svg"
 import L_Elk from "../../assets/img/skills/elasticsearch.svg"
 import L_Git from "../../assets/img/skills/git-icon.svg"
+import L_Liquibase from "../../assets/img/skills/liquibase.svg"
 
 export const skills = {
     frontend : [
@@ -107,6 +108,12 @@ export const skills = {
             imgAltText: "Git",
             imgSrc: L_Git,
             skillName: "Git"
+        },
+        {
+            link: "#",
+            imgAltText: "Liquibase",
+            imgSrc: L_Liquibase,
+            skillName: "Liquibase"
         }
     ] 
 }

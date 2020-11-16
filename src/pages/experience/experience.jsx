@@ -34,6 +34,7 @@ export const Experience = () => {
                                             <li>Wrote a script with Javascript to display data onto Grafana, by making API calls and then injecting the fetched data into HTML components created by the script </li>
                                             <li>Performed CRUD operations and joins on multiple schemas/tables in main Postgre databases to load/remove/manipulate data as part of  the 
                                              project requirements.</li>
+                                            <li>Spearheading the migration of version-control tool Liquibase onto database and DevOps platform</li>
                                             <li>Exposure to daily stand-up meetings and effective project management with Agile-Scrum methodology on Jira</li>
                                         </ul>
                                         {/* <br/> */}
