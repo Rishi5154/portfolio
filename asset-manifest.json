@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.0fb0d012.chunk.css",
-    "main.js": "/portfolio/static/js/main.e96ac29e.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.e96ac29e.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.b123f957.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.b123f957.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.209c2d7e.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.209c2d7e.js.map",
-    "static/js/2.55e95c6e.chunk.js": "/portfolio/static/js/2.55e95c6e.chunk.js",
-    "static/js/2.55e95c6e.chunk.js.map": "/portfolio/static/js/2.55e95c6e.chunk.js.map",
+    "static/js/2.a5253295.chunk.js": "/portfolio/static/js/2.a5253295.chunk.js",
+    "static/js/2.a5253295.chunk.js.map": "/portfolio/static/js/2.a5253295.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "precache-manifest.2ac0f27b1b10aea2d4cc630197f79bd4.js": "/portfolio/precache-manifest.2ac0f27b1b10aea2d4cc630197f79bd4.js",
+    "precache-manifest.5553ec8cd56e8d139aaba31989f8ac7b.js": "/portfolio/precache-manifest.5553ec8cd56e8d139aaba31989f8ac7b.js",
     "service-worker.js": "/portfolio/service-worker.js",
     "static/css/main.0fb0d012.chunk.css.map": "/portfolio/static/css/main.0fb0d012.chunk.css.map",
-    "static/js/2.55e95c6e.chunk.js.LICENSE.txt": "/portfolio/static/js/2.55e95c6e.chunk.js.LICENSE.txt",
+    "static/js/2.a5253295.chunk.js.LICENSE.txt": "/portfolio/static/js/2.a5253295.chunk.js.LICENSE.txt",
     "static/media/background.webp": "/portfolio/static/media/background.bf989778.webp",
     "static/media/contact.css": "/portfolio/static/media/background.e95d0563.webp",
     "static/media/background1.jpg": "/portfolio/static/media/background1.3b5149f8.jpg",
@@ -27,6 +27,7 @@
     "static/media/html-5.svg": "/portfolio/static/media/html-5.676e8188.svg",
     "static/media/java.svg": "/portfolio/static/media/java.13a09653.svg",
     "static/media/javascript.svg": "/portfolio/static/media/javascript.891a71b9.svg",
+    "static/media/liquibase.svg": "/portfolio/static/media/liquibase.038c654e.svg",
     "static/media/mas_logo-2.svg": "/portfolio/static/media/mas_logo-2.2a416b40.svg",
     "static/media/planNUS.jpg": "/portfolio/static/media/planNUS.8f9bbef2.jpg",
     "static/media/postgresql.svg": "/portfolio/static/media/postgresql.d7c985e7.svg",
@@ -38,8 +39,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.209c2d7e.js",
-    "static/js/2.55e95c6e.chunk.js",
+    "static/js/2.a5253295.chunk.js",
     "static/css/main.0fb0d012.chunk.css",
-    "static/js/main.e96ac29e.chunk.js"
+    "static/js/main.b123f957.chunk.js"
   ]
 }
