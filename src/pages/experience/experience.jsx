@@ -23,18 +23,19 @@ export const Experience = () => {
                                     <div>
                                     <Card.Text className="text-center style">
                                         {/* <br/> */}
-                                        <strong>Duration:</strong> July 2020 - Present
+                                        <strong>Duration:</strong> July 2020 - Jan 2021
                                         <br/>
                                         <strong> Description </strong>
                                         <br/>
                                         <ul className="text-left">
                                             <li>Assigned to automation and configuration of application monitoring pipelines & DevOps for upcoming cloud platform with ELK stack</li>
-                                            <li>Utilised React & React-admin library to contribute features and bug fixes to a centralised website that serves as the UI between clients & server/applications </li>
-                                            <li>Set-up and pushed application monitoring pipelines for several in-house application logs, with Logstash & its plugins as well as Python, into production environments </li>
-                                            <li>Wrote a script with Javascript to display data onto Grafana, by making API calls and then injecting the fetched data into HTML components created by the script </li>
-                                            <li>Performed CRUD operations and joins on multiple schemas/tables in main Postgre databases to load/remove/manipulate data as part of  the 
+                                            <li>Utilised React & React-admin library to contribute features and bug fixes to a website for application/server management</li>
+                                            <li>Set-up pipelines with Logstash & Python for application monitoring and creation of dashboards with Grafana</li>
+                                            <li>Performed CRUD operations and joins on multiple schemas/tables in main Postgre databases to load/remove/manipulate data as part of the 
                                              project requirements.</li>
-                                            <li>Spearheading the migration of version-control tool Liquibase onto database and DevOps platform</li>
+                                            <li>Spearheaded the end-to-end migration of open source version-control tool Liquibase onto database and DevOps platform, hence integrating version
+                                                control and automation of database changes into development & production environments.
+                                            </li>
                                             <li>Exposure to daily stand-up meetings and effective project management with Agile-Scrum methodology on Jira</li>
                                         </ul>
                                         {/* <br/> */}
@@ -63,7 +64,7 @@ export const Experience = () => {
                                         <strong> Description </strong>
                                         <br/>
                                         <ul className="text-left">
-                                            <li>Developed RESTful endpoints to support CRUD operations based on mockups, for mobile frontend to fetch data from database</li>
+                                            <li>Developed RESTful endpoints to support CRUD operations, in conjuction with prototypes created by UI/UX designers </li>
                                         </ul>
                                         {/* <br/> */}
                                         <strong> Tech stack employed </strong> : Java, Spring Boot, Postgres
