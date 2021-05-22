@@ -1,6 +1,9 @@
 .img-resize {
     width: 12em;
 }
+.img-padding {
+    margin: -40px;
+}
   
 .style {
     font-size: 18px;

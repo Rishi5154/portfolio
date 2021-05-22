@@ -2,6 +2,7 @@ import React from 'react'
 import Tilt from 'react-tilt'
 import L_Mas from "../../assets/img/skills/mas_logo-2.svg"
 import L_Climbpass from "../../assets/img/skills/climbpass-logo-1.svg"
+import L_PwC from "../../assets/img/skills/PwC.png"
 import { Jumbotron, Container, Card } from 'react-bootstrap'
 import "./experience.css"
 
@@ -11,6 +12,34 @@ export const Experience = () => {
             <h1 className="pt-3 text-center font-details-b pb-3">Experience</h1>
                 <Jumbotron className="jumbo-style">
                     <Container>
+                    <Tilt options={{ max: 10}}>
+                            <Card>
+                                <Card.Header as="h5" className="d-flex justify-content-center flex-wrap">
+                                    <Card.Img variant="top" className="img-resize img-padding" src={L_PwC} alt="PwC logo" />
+                                </Card.Header>
+                                <Card.Body className="d-flex justify-content-center flex-column">
+                                    <div>
+                                        <Card.Title className="text-center">Software Engineer Intern</Card.Title>
+                                    </div>
+                                    <div>
+                                    <Card.Text className="text-center style">
+                                        {/* <br/> */}
+                                        <strong>Duration:</strong> May 2021 - Aug 2021
+                                        <br/>
+                                        <strong> Description </strong>
+                                        <br/>
+                                        <ul className="text-left">
+                                            <li>Assigned to development of a technical Proof-of-Concept for the firm, in the form of a full stack web application to expedite the process of talent profiling and out-sourcing.</li>
+                                        </ul>
+                                        {/* <br/> */}
+                                        <strong> Tech stack employed </strong> : Angular, Material UI, MSSQL 
+                                        <br/>
+                                    </Card.Text>
+                                    </div>
+                                </Card.Body>
+                            </Card>
+                            <Card.Footer/>
+                        </Tilt>
                         <Tilt options={{ max: 10}}>
                             <Card>
                                 <Card.Header as="h5" className="d-flex justify-content-center flex-wrap">

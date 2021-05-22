@@ -17,7 +17,7 @@ export const AboutMe = () => {
                                 Hi there! My name is <strong>&nbsp;Rishi Ravikumar</strong>
                                 <br />I'm an undergraduate student majoring in Computer science at the National University of Singapore.
                                 <br />
-                                As of now, I have interned at early-stage startups, completed successful projects and am currently interning at a top government organisation in Singapore.
+                                As of now, I have interned at early-stage startups & government organisations, completed successful projects and am currently interning at a 'Big 4' firm in Singapore.
                                 <br />
                                 Being a fresh-faced entry into the realm of computing, I have to confess that I've thoroughly enjoyed my journey so far, and currently am on the lookout for exciting opportunities as a SWE.
                                 <br />
