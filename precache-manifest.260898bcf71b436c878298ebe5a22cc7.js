@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5c620ac036772c97e5771ddb01b345ec",
+    "revision": "185cf0d0c11d97d97e2461eca0bacf94",
     "url": "/portfolio/index.html"
   },
   {
-    "revision": "dc24c841bfa47b9371f1",
-    "url": "/portfolio/static/css/main.0fb0d012.chunk.css"
+    "revision": "b49f304f1e4788bacd2d",
+    "url": "/portfolio/static/css/main.14217d12.chunk.css"
   },
   {
     "revision": "e10a4ae31e9d71af0266",
@@ -16,16 +16,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/js/2.b5a28fc7.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "dc24c841bfa47b9371f1",
-    "url": "/portfolio/static/js/main.6ef86927.chunk.js"
+    "revision": "b49f304f1e4788bacd2d",
+    "url": "/portfolio/static/js/main.65b45992.chunk.js"
   },
   {
     "revision": "7a6cc99bd8f08f9fa6ec",
     "url": "/portfolio/static/js/runtime-main.209c2d7e.js"
   },
   {
-    "revision": "7252b0c36edfc0d18c1265b8ef523904",
-    "url": "/portfolio/static/media/PwC.7252b0c3.svg"
+    "revision": "d97f199e601079479599926323114034",
+    "url": "/portfolio/static/media/PwC.d97f199e.png"
   },
   {
     "revision": "bf989778565c49da91f9e0ef13dbdc5c",
