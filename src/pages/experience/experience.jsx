@@ -29,10 +29,13 @@ export const Experience = () => {
                                         <strong> Description </strong>
                                         <br/>
                                         <ul className="text-left">
-                                            <li>Assigned to development of a technical Proof-of-Concept for the firm, in the form of a full stack web application to expedite the process of talent profiling and out-sourcing.</li>
+                                            <li>Assigned to development of a technical Proof-of-Concept(PoC) for the firm, in the form of a full stack web application to expedite the process of talent profiling and out-sourcing.</li>
+                                            <li>Engaged in end-to-end development for the PoC, from ideation to presentation of PoC to upper layers of management (director, partners) as well as software development & technical documentation.</li>
+                                            <li>Crafted several Google App Scripts using Javascript to automate several workflows like templating, email delivery & event scheduling within the firm's recruitment processes,
+                                                 saving around 30 hours per week on average.</li>
                                         </ul>
                                         {/* <br/> */}
-                                        <strong> Tech stack employed </strong> : Angular, Material UI, MSSQL 
+                                        <strong> Tech stack employed </strong> : Angular, Material UI, MSSQL, Google Apps Scripts & Google Suite API, Javascript 
                                         <br/>
                                     </Card.Text>
                                     </div>
