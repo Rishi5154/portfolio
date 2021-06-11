@@ -4,6 +4,8 @@ import L_Javascript from "../../assets/img/skills/javascript.svg"
 import L_React from "../../assets/img/skills/react.svg"
 import L_ReactBootstrap from "../../assets/img/skills/react-bootstrap.svg"
 import L_Flutter from "../../assets/img/skills/flutter-logo.svg"
+import L_Angular from "../../assets/img/skills/angular.svg"
+import L_Material from "../../assets/img/skills/material-ui.svg"
 import L_SpringBoot from "../../assets/img/skills/spring-3.svg"
 import L_Firebase from "../../assets/img/skills/firebase-1.svg"
 import L_Java from "../../assets/img/skills/java.svg"
@@ -15,24 +17,6 @@ import L_Liquibase from "../../assets/img/skills/liquibase.svg"
 
 export const skills = {
     frontend : [
-        {
-            link: "#",
-            imgAltText: "HTML 5",
-            imgSrc: L_HTML,
-            skillName: "HTML5"
-        },
-        {
-            link: "#",
-            imgAltText: "CSS 3",
-            imgSrc: L_CSS,
-            skillName: "CSS"
-        },
-        {
-            link: "#",
-            imgAltText: "Javascript",
-            imgSrc: L_Javascript,
-            skillName: "Javascript"
-        },
         {
             link: "#",
             imgAltText: "ReactJS",
@@ -51,6 +35,36 @@ export const skills = {
             imgAltText: "Flutter",
             imgSrc: L_Flutter,
             skillName: "Flutter"
+        },
+        {
+            link: "#",
+            imgAltText: "Angular",
+            imgSrc: L_Angular,
+            skillName: "Angular"
+        },
+        {
+            link: "#",
+            imgAltText: "Material",
+            imgSrc: L_Material,
+            skillName: "Material UI"
+        },
+        {
+            link: "#",
+            imgAltText: "HTML 5",
+            imgSrc: L_HTML,
+            skillName: "HTML5"
+        },
+        {
+            link: "#",
+            imgAltText: "CSS 3",
+            imgSrc: L_CSS,
+            skillName: "CSS"
+        },
+        {
+            link: "#",
+            imgAltText: "Javascript",
+            imgSrc: L_Javascript,
+            skillName: "Javascript"
         }
         
     ],

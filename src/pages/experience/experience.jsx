@@ -26,8 +26,9 @@ export const Experience = () => {
                                         {/* <br/> */}
                                         <strong>Duration:</strong> May 2021 - Aug 2021
                                         <br/>
-                                        <strong> Description </strong>
                                         <br/>
+                                        <strong> Description </strong>
+                                        <hr/>
                                         <ul className="text-left">
                                             <li>Assigned to development of a technical Proof-of-Concept(PoC) for the firm, in the form of a full stack web application to expedite the process of talent profiling and out-sourcing.</li>
                                             <li>Engaged in end-to-end development for the PoC, from ideation to presentation of PoC to upper layers of management (director, partners) as well as software development & technical documentation.</li>
@@ -57,8 +58,9 @@ export const Experience = () => {
                                         {/* <br/> */}
                                         <strong>Duration:</strong> July 2020 - Jan 2021
                                         <br/>
-                                        <strong> Description </strong>
                                         <br/>
+                                        <strong> Description </strong>
+                                        <hr/>
                                         <ul className="text-left">
                                             <li>Assigned to automation and configuration of application monitoring pipelines & DevOps for upcoming cloud platform with ELK stack</li>
                                             <li>Utilised React & React-admin library to contribute features and bug fixes to a website for application/server management</li>
@@ -91,10 +93,11 @@ export const Experience = () => {
                                     <div>
                                     <Card.Text className="text-center style">
                                         {/* <br/> */}
-                                        <strong>Duration:</strong> May 2020 - Present
+                                        <strong>Duration:</strong> May 2020 - Dec 2020
+                                        <br/>
                                         <br/>
                                         <strong> Description </strong>
-                                        <br/>
+                                        <hr/>
                                         <ul className="text-left">
                                             <li>Developed RESTful endpoints to support CRUD operations, in conjuction with prototypes created by UI/UX designers </li>
                                         </ul>
