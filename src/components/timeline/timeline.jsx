@@ -2,7 +2,7 @@ import React from 'react'
 import { Timeline, Events, UrlButton, ImageEvent } from "@merc/react-timeline";
 import L_Plannus from "../../assets/img/projects/planNUS.jpg"
 import L_Todo from "../../assets/img/projects/react-todo.jpg"
-import L_Games from "../../assets/img/projects/games.jpg"
+import L_Games from "../../assets/img/projects/games.png"
 import L_HTML from "../../assets/img/skills/html-5.svg"
 import L_CSS from "../../assets/img/skills/css3.svg"
 import L_React from "../../assets/img/skills/react.svg"

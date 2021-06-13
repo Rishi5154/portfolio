@@ -1,7 +1,7 @@
 import React from 'react'
 import Tilt from 'react-tilt'
 import L_Mas from "../../assets/img/skills/mas_logo-2.svg"
-import L_Climbpass from "../../assets/img/skills/climbpass-logo-1.svg"
+import L_Climbpass from "../../assets/img/skills/climbpass-logo.png"
 import L_PwC from "../../assets/img/skills/PwC.png"
 import { Jumbotron, Container, Card } from 'react-bootstrap'
 import "./experience.css"
