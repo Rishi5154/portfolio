@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1b5a2c9798039218f6cea22baf7d5dc4",
+    "revision": "82bb2f7a59c5d565ecfbdf71a6afd8e4",
     "url": "/portfolio/index.html"
   },
   {
-    "revision": "bd1b57b37501f602b3e6",
-    "url": "/portfolio/static/css/main.d379100a.chunk.css"
+    "revision": "61cf1f659faf19d6f226",
+    "url": "/portfolio/static/css/main.d58970a4.chunk.css"
   },
   {
     "revision": "46c650595d24160ad7f6",
@@ -16,16 +16,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/js/2.f8daf446.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "bd1b57b37501f602b3e6",
-    "url": "/portfolio/static/js/main.542c4b88.chunk.js"
+    "revision": "61cf1f659faf19d6f226",
+    "url": "/portfolio/static/js/main.c160e53a.chunk.js"
   },
   {
     "revision": "7a6cc99bd8f08f9fa6ec",
     "url": "/portfolio/static/js/runtime-main.209c2d7e.js"
   },
   {
-    "revision": "d97f199e601079479599926323114034",
-    "url": "/portfolio/static/media/PwC.d97f199e.png"
+    "revision": "721853108752e8801ea04e16dec49554",
+    "url": "/portfolio/static/media/PwC.72185310.png"
   },
   {
     "revision": "a5d3141d31ea630b714ec498fb97154c",
@@ -40,20 +40,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/media/background.e95d0563.webp"
   },
   {
-    "revision": "3b5149f85937bad26c6ee381baade3e6",
-    "url": "/portfolio/static/media/background1.3b5149f8.jpg"
+    "revision": "7fa9a0b82d47d5e2af07f8dfbf6a7082",
+    "url": "/portfolio/static/media/background1.7fa9a0b8.jpg"
   },
   {
-    "revision": "029ea9f7f893a0d26338450a665c639c",
-    "url": "/portfolio/static/media/background2.029ea9f7.jpg"
+    "revision": "4c07015bcec1795ee75963478c567591",
+    "url": "/portfolio/static/media/background2.4c07015b.jpg"
   },
   {
-    "revision": "a2e753f6ae25159fcbe9e80c55d93ac6",
-    "url": "/portfolio/static/media/background3.a2e753f6.jpg"
+    "revision": "cf88d942b6d56f1b8ba9e1089ad8ec14",
+    "url": "/portfolio/static/media/background3.cf88d942.jpg"
   },
   {
-    "revision": "ac26e2adad294e1c58ff15bf384058f4",
-    "url": "/portfolio/static/media/climbpass-logo-1.ac26e2ad.svg"
+    "revision": "e171fb496435d4197c8b769c92cb7c6e",
+    "url": "/portfolio/static/media/climbpass-logo.e171fb49.png"
   },
   {
     "revision": "3707da3c6a394c7ee2523273f8d98a25",
@@ -76,8 +76,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/media/flutter-logo.bd9fec89.svg"
   },
   {
-    "revision": "5e95aa079cabe43e7f6e3f0c8da5eb33",
-    "url": "/portfolio/static/media/games.5e95aa07.jpg"
+    "revision": "5700ed4460df9a16f95f376f3f7c0e8c",
+    "url": "/portfolio/static/media/games.5700ed44.png"
   },
   {
     "revision": "1190a19ce3cc940741a60137a1e074cb",
@@ -108,8 +108,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/media/material-ui.82291019.svg"
   },
   {
-    "revision": "8f9bbef2c313fabfc1597b6279f94f9c",
-    "url": "/portfolio/static/media/planNUS.8f9bbef2.jpg"
+    "revision": "cd6b521346cac93254079e4873293fe4",
+    "url": "/portfolio/static/media/planNUS.cd6b5213.jpg"
   },
   {
     "revision": "d7c985e7cca077dc2d77f89a66573e35",
@@ -124,8 +124,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/media/react-bootstrap.83fe61b0.svg"
   },
   {
-    "revision": "6aa95d9a76570a3ef0f9508100755335",
-    "url": "/portfolio/static/media/react-todo.6aa95d9a.jpg"
+    "revision": "d1c4b0656dd042a9dffa18a8a950381f",
+    "url": "/portfolio/static/media/react-todo.d1c4b065.jpg"
   },
   {
     "revision": "4009eef3b3e291f296e71962c70895c5",
