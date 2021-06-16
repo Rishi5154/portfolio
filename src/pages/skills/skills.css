@@ -12,7 +12,9 @@ font-weight: 300;
 }
 
 .image-style {
-width: 3em;
+width: 4.5em;
+margin: 20px;
+padding-right: 20px;
 }
 
 .font-details {
