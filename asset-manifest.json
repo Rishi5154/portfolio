@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.d58970a4.chunk.css",
-    "main.js": "/portfolio/static/js/main.c160e53a.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.c160e53a.chunk.js.map",
+    "main.css": "/portfolio/static/css/main.30e15206.chunk.css",
+    "main.js": "/portfolio/static/js/main.d213e894.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.d213e894.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.209c2d7e.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.209c2d7e.js.map",
-    "static/js/2.f8daf446.chunk.js": "/portfolio/static/js/2.f8daf446.chunk.js",
-    "static/js/2.f8daf446.chunk.js.map": "/portfolio/static/js/2.f8daf446.chunk.js.map",
+    "static/js/2.8352e114.chunk.js": "/portfolio/static/js/2.8352e114.chunk.js",
+    "static/js/2.8352e114.chunk.js.map": "/portfolio/static/js/2.8352e114.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "precache-manifest.baee352228104e24ec726466aa1e1936.js": "/portfolio/precache-manifest.baee352228104e24ec726466aa1e1936.js",
+    "precache-manifest.71b82c0f8a2aaf40f9d1fe8b590cf7fe.js": "/portfolio/precache-manifest.71b82c0f8a2aaf40f9d1fe8b590cf7fe.js",
     "service-worker.js": "/portfolio/service-worker.js",
-    "static/css/main.d58970a4.chunk.css.map": "/portfolio/static/css/main.d58970a4.chunk.css.map",
-    "static/js/2.f8daf446.chunk.js.LICENSE.txt": "/portfolio/static/js/2.f8daf446.chunk.js.LICENSE.txt",
+    "static/css/main.30e15206.chunk.css.map": "/portfolio/static/css/main.30e15206.chunk.css.map",
+    "static/js/2.8352e114.chunk.js.LICENSE.txt": "/portfolio/static/js/2.8352e114.chunk.js.LICENSE.txt",
     "static/media/PwC.png": "/portfolio/static/media/PwC.72185310.png",
     "static/media/angular.svg": "/portfolio/static/media/angular.a5d3141d.svg",
     "static/media/background.webp": "/portfolio/static/media/background.bf989778.webp",
@@ -19,6 +19,7 @@
     "static/media/background1.jpg": "/portfolio/static/media/background1.7fa9a0b8.jpg",
     "static/media/background2.jpg": "/portfolio/static/media/background2.4c07015b.jpg",
     "static/media/background3.jpg": "/portfolio/static/media/background3.cf88d942.jpg",
+    "static/media/bootstrap-5.svg": "/portfolio/static/media/bootstrap-5.6aae84ab.svg",
     "static/media/climbpass-logo.png": "/portfolio/static/media/climbpass-logo.e171fb49.png",
     "static/media/css3.svg": "/portfolio/static/media/css3.3707da3c.svg",
     "static/media/django.svg": "/portfolio/static/media/django.bcf22073.svg",
@@ -30,6 +31,7 @@
     "static/media/html-5.svg": "/portfolio/static/media/html-5.676e8188.svg",
     "static/media/java.svg": "/portfolio/static/media/java.13a09653.svg",
     "static/media/javascript.svg": "/portfolio/static/media/javascript.891a71b9.svg",
+    "static/media/landing_page.png": "/portfolio/static/media/landing_page.b9375c96.png",
     "static/media/liquibase.svg": "/portfolio/static/media/liquibase.038c654e.svg",
     "static/media/mas_logo-2.svg": "/portfolio/static/media/mas_logo-2.2a416b40.svg",
     "static/media/material-ui.svg": "/portfolio/static/media/material-ui.82291019.svg",
@@ -44,8 +46,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.209c2d7e.js",
-    "static/js/2.f8daf446.chunk.js",
-    "static/css/main.d58970a4.chunk.css",
-    "static/js/main.c160e53a.chunk.js"
+    "static/js/2.8352e114.chunk.js",
+    "static/css/main.30e15206.chunk.css",
+    "static/js/main.d213e894.chunk.js"
   ]
 }
