@@ -24,19 +24,21 @@ export const Experience = () => {
                                     <div>
                                     <Card.Text className="text-center style">
                                         {/* <br/> */}
-                                        <strong>Duration:</strong> May 2021 - Aug 2021
+                                        <strong>Duration:</strong> May 2021 - July 2021
                                         <br/>
                                         <br/>
                                         <strong> Description </strong>
                                         <hr/>
                                         <ul className="text-left">
                                             <li>Assigned to development of a technical Proof-of-Concept(PoC) for the firm, in the form of a full stack web application to expedite the process of talent profiling and out-sourcing.</li>
-                                            <li>Engaged in end-to-end development for the PoC, from ideation to presentation of PoC to upper layers of management (director, partners) as well as software development & technical documentation.</li>
+                                            <li>Engaged in end-to-end development for the PoC, from ideation to presentation of PoC to upper layers of management (director, partners) as well as software development with Angular, .NET Core & technical documentation.</li>
                                             <li>Crafted several Google App Scripts using Javascript to automate several workflows like templating, email delivery & event scheduling within the firm's recruitment processes,
                                                  saving around 30 hours per week on average.</li>
+                                            <li>Developed and published key visualisations of internal resource management, digital platform metrics with PowerBI, Power Query for upper management.</li>
+                                            <li>Rendered to the full-stack development of features for current, internal web applications, using ASP.NET & MSSQL.</li>
                                         </ul>
                                         {/* <br/> */}
-                                        <strong> Tech stack employed </strong> : Angular, Material UI, MSSQL, Google Apps Scripts & Google Suite API, Javascript 
+                                        <strong> Tech stack employed </strong> : Angular, Typescript, Material UI, MSSQL, Google Apps Scripts, PowerBI, ASP.NET
                                         <br/>
                                     </Card.Text>
                                     </div>
@@ -51,7 +53,7 @@ export const Experience = () => {
                                 </Card.Header>
                                 <Card.Body className="d-flex justify-content-center flex-column">
                                     <div>
-                                        <Card.Title className="text-center">Software Engineer intern</Card.Title>
+                                        <Card.Title className="text-center">Software Engineer Intern</Card.Title>
                                     </div>
                                     <div>
                                     <Card.Text className="text-center style">
@@ -88,7 +90,7 @@ export const Experience = () => {
                                 </Card.Header>
                                 <Card.Body className="d-flex justify-content-center flex-column">
                                     <div>
-                                        <Card.Title className="text-center">Backend developer intern</Card.Title>
+                                        <Card.Title className="text-center">Backend Developer Intern</Card.Title>
                                     </div>
                                     <div>
                                     <Card.Text className="text-center style">

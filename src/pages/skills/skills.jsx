@@ -51,29 +51,8 @@ export const Skills = () => {
                                 </Card.Text>
                             </Card.Body>
                         </Card>
-
-                        {/* Others */}
+                        {/* Programming Languages */}
                         <Card className="focus mt-2 mb-2" >
-                            <Card.Body>
-                                <Card.Title className="text-center card-title">Others</Card.Title>
-                                <hr />
-                                <Card.Text className="card-text d-flex justify-content-start flex-column">
-                                {skills.others.map((skill, index) => (
-                                    <span className="p-2" key={index}>
-                                    <a className="text-dark text-decoration-none" href={skill.link} target="_blank" rel="noopener noreferrer">
-                                        <Image src={skill.imgSrc} alt={skill.imgAltText} rounded className="image-style m-1"></Image> {skill.skillName}
-                                    </a>
-                                    </span>
-                                ))}
-                                </Card.Text>
-                            </Card.Body>
-                        </Card>
-
-                    </Col>
-
-                    {/* Programming Languages */}
-                    <Col md={4} >
-                        <Card className="focus mt-2 mb-2" style={{ width: '20rem'}}>
                             <Card.Body>
                                 <Card.Title className="text-center card-title">Programming</Card.Title>
                                 <hr />
@@ -88,13 +67,35 @@ export const Skills = () => {
                                 </Card.Text>
                             </Card.Body>
                         </Card>
+                    </Col>
+
+                    
+                    <Col md={4} >
+                        
                         {/* Database */}
-                        <Card className="focus mt-2 mb-2" style={{ width: '20rem'}}>
+                        <Card className="focus mt-2 mb-2" >
                             <Card.Body>
                                 <Card.Title className="text-center card-title">Database</Card.Title>
                                 <hr />
                                 <Card.Text className="card-text d-flex justify-content-start flex-column">
                                 {skills.database.map((skill, index) => (
+                                    <span className="p-2" key={index}>
+                                    <a className="text-dark text-decoration-none" href={skill.link} target="_blank" rel="noopener noreferrer">
+                                        <Image src={skill.imgSrc} alt={skill.imgAltText} rounded className="image-style m-1"></Image> {skill.skillName}
+                                    </a>
+                                    </span>
+                                ))}
+                                </Card.Text>
+                            </Card.Body>
+                        </Card>
+
+                        {/* Others */}
+                        <Card className="focus mt-2 mb-2" >
+                            <Card.Body>
+                                <Card.Title className="text-center card-title">Others</Card.Title>
+                                <hr />
+                                <Card.Text className="card-text d-flex justify-content-start flex-column">
+                                {skills.others.map((skill, index) => (
                                     <span className="p-2" key={index}>
                                     <a className="text-dark text-decoration-none" href={skill.link} target="_blank" rel="noopener noreferrer">
                                         <Image src={skill.imgSrc} alt={skill.imgAltText} rounded className="image-style m-1"></Image> {skill.skillName}

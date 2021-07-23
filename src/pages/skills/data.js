@@ -14,6 +14,9 @@ import L_Postgres from "../../assets/img/skills/postgresql.svg"
 import L_Elk from "../../assets/img/skills/elasticsearch.svg"
 import L_Git from "../../assets/img/skills/git-icon.svg"
 import L_Liquibase from "../../assets/img/skills/liquibase.svg"
+import L_MSSQL from "../../assets/img/skills/mssql.svg"
+import L_ASP from "../../assets/img/skills/asp-net.svg"
+import L_PowerBI from "../../assets/img/skills/power-bi.svg"
 
 export const skills = {
     frontend : [
@@ -80,7 +83,13 @@ export const skills = {
             imgAltText: "Firebase",
             imgSrc: L_Firebase,
             skillName: "Firebase"
-        }
+        }, 
+        {
+            link: "",
+            imgAltText: "ASP.NET",
+            imgSrc: L_ASP,
+            skillName: "ASP.NET"
+        },
     ],
     languages : [
         {
@@ -108,20 +117,32 @@ export const skills = {
             imgAltText: "PostgreSQL",
             imgSrc: L_Postgres,
             skillName: "PostgreSQL"
+        }, 
+        {
+            link: "#",
+            imgAltText: "MSSQL",
+            imgSrc: L_MSSQL,
+            skillName: "MSSQL"
         }
     ],
     others: [
         {
             link: "#",
-            imgAltText: "ELK stack",
-            imgSrc: L_Elk,
-            skillName: "ELK Stack"
-        },
-        {
-            link: "#",
             imgAltText: "Git",
             imgSrc: L_Git,
             skillName: "Git"
+        },
+        {
+            link: "#",
+            imgAltText: "PowerBI",
+            imgSrc: L_PowerBI,
+            skillName: "PowerBI"
+        },
+        {
+            link: "#",
+            imgAltText: "ELK stack",
+            imgSrc: L_Elk,
+            skillName: "ELK Stack"
         },
         {
             link: "#",
