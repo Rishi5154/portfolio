@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ccd810ac8b6f7ee053b30e1fde33f890",
+    "revision": "97b9a826fcba6feeba27a63cd47d600c",
     "url": "/portfolio/index.html"
   },
   {
-    "revision": "7d2e36e60f551297dd4c",
+    "revision": "e10a3930f79c8ceb252f",
     "url": "/portfolio/static/css/main.30e15206.chunk.css"
   },
   {
-    "revision": "29271f19dbb3aa5db34d",
-    "url": "/portfolio/static/js/2.8352e114.chunk.js"
+    "revision": "72ea6d6d5d05cc10bf88",
+    "url": "/portfolio/static/js/2.f2fe40e3.chunk.js"
   },
   {
     "revision": "56729d980da09961afe8d497a21eec12",
-    "url": "/portfolio/static/js/2.8352e114.chunk.js.LICENSE.txt"
+    "url": "/portfolio/static/js/2.f2fe40e3.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7d2e36e60f551297dd4c",
-    "url": "/portfolio/static/js/main.d213e894.chunk.js"
+    "revision": "e10a3930f79c8ceb252f",
+    "url": "/portfolio/static/js/main.604324d1.chunk.js"
   },
   {
     "revision": "7a6cc99bd8f08f9fa6ec",
@@ -30,6 +30,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "a5d3141d31ea630b714ec498fb97154c",
     "url": "/portfolio/static/media/angular.a5d3141d.svg"
+  },
+  {
+    "revision": "f9b8f1c23e0e42a3c434568e3c773e46",
+    "url": "/portfolio/static/media/asp-net.f9b8f1c2.svg"
   },
   {
     "revision": "bf989778565c49da91f9e0ef13dbdc5c",
@@ -116,12 +120,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/media/material-ui.82291019.svg"
   },
   {
+    "revision": "54d7bddcd3019ec3c3b23db00160ccef",
+    "url": "/portfolio/static/media/mssql.54d7bddc.svg"
+  },
+  {
     "revision": "cd6b521346cac93254079e4873293fe4",
     "url": "/portfolio/static/media/planNUS.cd6b5213.jpg"
   },
   {
     "revision": "d7c985e7cca077dc2d77f89a66573e35",
     "url": "/portfolio/static/media/postgresql.d7c985e7.svg"
+  },
+  {
+    "revision": "f18ade3a4f7eb5417d4e0521d952c29c",
+    "url": "/portfolio/static/media/power-bi.f18ade3a.svg"
   },
   {
     "revision": "146716bdf1a351db5705ec1e6a25ed08",

@@ -1,19 +1,20 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.30e15206.chunk.css",
-    "main.js": "/portfolio/static/js/main.d213e894.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.d213e894.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.604324d1.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.604324d1.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.209c2d7e.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.209c2d7e.js.map",
-    "static/js/2.8352e114.chunk.js": "/portfolio/static/js/2.8352e114.chunk.js",
-    "static/js/2.8352e114.chunk.js.map": "/portfolio/static/js/2.8352e114.chunk.js.map",
+    "static/js/2.f2fe40e3.chunk.js": "/portfolio/static/js/2.f2fe40e3.chunk.js",
+    "static/js/2.f2fe40e3.chunk.js.map": "/portfolio/static/js/2.f2fe40e3.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "precache-manifest.71b82c0f8a2aaf40f9d1fe8b590cf7fe.js": "/portfolio/precache-manifest.71b82c0f8a2aaf40f9d1fe8b590cf7fe.js",
+    "precache-manifest.887424ccb4dbea1e4ac5cccf46f5a50d.js": "/portfolio/precache-manifest.887424ccb4dbea1e4ac5cccf46f5a50d.js",
     "service-worker.js": "/portfolio/service-worker.js",
     "static/css/main.30e15206.chunk.css.map": "/portfolio/static/css/main.30e15206.chunk.css.map",
-    "static/js/2.8352e114.chunk.js.LICENSE.txt": "/portfolio/static/js/2.8352e114.chunk.js.LICENSE.txt",
+    "static/js/2.f2fe40e3.chunk.js.LICENSE.txt": "/portfolio/static/js/2.f2fe40e3.chunk.js.LICENSE.txt",
     "static/media/PwC.png": "/portfolio/static/media/PwC.72185310.png",
     "static/media/angular.svg": "/portfolio/static/media/angular.a5d3141d.svg",
+    "static/media/asp-net.svg": "/portfolio/static/media/asp-net.f9b8f1c2.svg",
     "static/media/background.webp": "/portfolio/static/media/background.bf989778.webp",
     "static/media/contact.css": "/portfolio/static/media/background.e95d0563.webp",
     "static/media/background1.jpg": "/portfolio/static/media/background1.7fa9a0b8.jpg",
@@ -35,8 +36,10 @@
     "static/media/liquibase.svg": "/portfolio/static/media/liquibase.038c654e.svg",
     "static/media/mas_logo-2.svg": "/portfolio/static/media/mas_logo-2.2a416b40.svg",
     "static/media/material-ui.svg": "/portfolio/static/media/material-ui.82291019.svg",
+    "static/media/mssql.svg": "/portfolio/static/media/mssql.54d7bddc.svg",
     "static/media/planNUS.jpg": "/portfolio/static/media/planNUS.cd6b5213.jpg",
     "static/media/postgresql.svg": "/portfolio/static/media/postgresql.d7c985e7.svg",
+    "static/media/power-bi.svg": "/portfolio/static/media/power-bi.f18ade3a.svg",
     "static/media/python.svg": "/portfolio/static/media/python.146716bd.svg",
     "static/media/react-bootstrap.svg": "/portfolio/static/media/react-bootstrap.83fe61b0.svg",
     "static/media/react-todo.jpg": "/portfolio/static/media/react-todo.d1c4b065.jpg",
@@ -46,8 +49,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.209c2d7e.js",
-    "static/js/2.8352e114.chunk.js",
+    "static/js/2.f2fe40e3.chunk.js",
     "static/css/main.30e15206.chunk.css",
-    "static/js/main.d213e894.chunk.js"
+    "static/js/main.604324d1.chunk.js"
   ]
 }
