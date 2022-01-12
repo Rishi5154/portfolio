@@ -17,6 +17,10 @@ import L_Liquibase from "../../assets/img/skills/liquibase.svg"
 import L_MSSQL from "../../assets/img/skills/mssql.svg"
 import L_ASP from "../../assets/img/skills/asp-net.svg"
 import L_PowerBI from "../../assets/img/skills/power-bi.svg"
+import L_Node from "../../assets/img/skills/nodejs.svg"
+import L_Express from "../../assets/img/skills/express.svg"
+import L_MongoDB from "../../assets/img/skills/mongodb.svg"
+import L_Tailwind from "../../assets/img/skills/tailwindcss.svg"
 
 export const skills = {
     frontend : [
@@ -68,6 +72,12 @@ export const skills = {
             imgAltText: "Javascript",
             imgSrc: L_Javascript,
             skillName: "Javascript"
+        },
+        {
+            link: "#",
+            imgAltText: "TailwindCSS",
+            imgSrc: L_Tailwind,
+            skillName: "Tailwind"
         }
         
     ],
@@ -89,6 +99,12 @@ export const skills = {
             imgAltText: "ASP.NET",
             imgSrc: L_ASP,
             skillName: "ASP.NET"
+        },
+        {
+            link: "",
+            imgAltText: "Express",
+            imgSrc: L_Express,
+            skillName: "Express"
         },
     ],
     languages : [
@@ -117,6 +133,12 @@ export const skills = {
             imgAltText: "PostgreSQL",
             imgSrc: L_Postgres,
             skillName: "PostgreSQL"
+        },
+        {
+            link: "#",
+            imgAltText: "MongoDB",
+            imgSrc: L_MongoDB,
+            skillName: "MongoDB"
         }, 
         {
             link: "#",
@@ -126,6 +148,12 @@ export const skills = {
         }
     ],
     others: [
+        {
+            link: "",
+            imgAltText: "Nodejs",
+            imgSrc: L_Node,
+            skillName: "Node.js"
+        },
         {
             link: "#",
             imgAltText: "Git",

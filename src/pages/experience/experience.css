@@ -1,8 +1,14 @@
 .img-resize {
     width: 12em;
 }
+
 .img-padding {
     margin: -40px;
+}
+
+.img-resize-yara {
+    width: 12em;
+    height: 200px;
 }
   
 .style {
