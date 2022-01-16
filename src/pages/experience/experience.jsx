@@ -14,7 +14,7 @@ const experienceData = [
         id: 'Visa',
         img: L_Visa,
         title: 'Software Engineer Intern (Full-stack)',
-        duration: 'May 2022 - Oct 2022',
+        duration: 'TBC',
         scope: ['Assigned to fullstack development on VisaNet (Network processing team)'],
         stack: 'Yet to be known...'
     },
