@@ -34,7 +34,6 @@ export const Skills = () => {
                     </Col>
 
                     {/* Backend skills */}
-                    
                     <Col md={4}>
                         <Card className="focus mt-2 mb-2" >
                             <Card.Body>
@@ -51,10 +50,11 @@ export const Skills = () => {
                                 </Card.Text>
                             </Card.Body>
                         </Card>
+
                         {/* Programming Languages */}
                         <Card className="focus mt-2 mb-2" >
                             <Card.Body>
-                                <Card.Title className="text-center card-title">Programming</Card.Title>
+                                <Card.Title className="text-center card-title">Languages</Card.Title>
                                 <hr />
                                 <Card.Text className="card-text d-flex justify-content-start flex-column">
                                 {skills.languages.map((skill, index) => (

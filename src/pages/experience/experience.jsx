@@ -1,14 +1,22 @@
 import React from 'react'
-import L_Mas from "../../assets/img/skills/mas_logo-2.svg"
-import L_Climbpass from "../../assets/img/skills/climbpass-logo.png"
-import L_PwC from "../../assets/img/skills/PwC.png"
-import L_Yara from "../../assets/img/skills/yara.png"
-import L_Visa from "../../assets/img/skills/visa.svg"
+import L_Mas from "../../assets/img/companies/mas_logo-2.svg"
+import L_Climbpass from "../../assets/img/companies/climbpass-logo.png"
+import L_PwC from "../../assets/img/companies/PwC.png"
+import L_Yara from "../../assets/img/companies/yara.png"
+import L_Visa from "../../assets/img/companies/visa.svg"
+import L_Tiktok from "../../assets/img/companies/tiktok.png"
 import { Jumbotron, Container, Card } from 'react-bootstrap'
 import "./experience.css"
 
 const experienceData = [
-    
+    {
+        id: 'Tiktok',
+        img: L_Tiktok,
+        title: 'Software Engineer Intern (Site Reliability Engineer)',
+        duration: 'TBC',
+        scope: ['Assigned to SRE/DevOps development on Tiktok Live'],
+        stack: 'Yet to be known...'
+    },
     {
         id: 'Visa',
         img: L_Visa,
