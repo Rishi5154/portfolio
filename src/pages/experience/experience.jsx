@@ -1,5 +1,4 @@
 import React from 'react'
-import Tilt from 'react-tilt'
 import L_Mas from "../../assets/img/skills/mas_logo-2.svg"
 import L_Climbpass from "../../assets/img/skills/climbpass-logo.png"
 import L_PwC from "../../assets/img/skills/PwC.png"
@@ -77,7 +76,7 @@ export const Experience = () => {
                         {
                             experienceData.map((exp, index) => {
                                 return (
-                                <Tilt options={{ max: 10}}>
+                                    <>
                                     <Card>
                                         <Card.Header as="h5" className="d-flex justify-content-center flex-wrap">
                                             <Card.Img variant="top" className={ exp.id === 'PwC' ? "img-resize img-padding" : "img-resize"} src={exp.img} alt="PwC logo" />
@@ -110,7 +109,7 @@ export const Experience = () => {
                                         </Card.Body>
                                     </Card>
                                     <Card.Footer/>
-                                </Tilt>
+                                    </>
                                 )
                             })
                         }
